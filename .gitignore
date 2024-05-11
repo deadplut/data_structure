@@ -1,0 +1,15 @@
+# Environment & IDE
+.venv
+.idea
+venv
+# Python
+*.pyc
+__pycache__
+
+# Dev database
+db.sqlite
+
+
+
+#env
+.env
